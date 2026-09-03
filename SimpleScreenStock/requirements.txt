@@ -1,0 +1,4 @@
+akshare>=1.16
+streamlit>=1.50
+pandas>=2.0
+requests>=2.28
